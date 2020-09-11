@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923277197840",
+    "firebase_url": "https://delivery-service-app-852d0.firebaseio.com",
+    "project_id": "delivery-service-app-852d0",
+    "storage_bucket": "delivery-service-app-852d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923277197840:android:f90fb1115f69b4beb00095",
+        "android_client_info": {
+          "package_name": "com.covirtue.deliveryservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923277197840-hk59hj83m7v6aec4grnohvgk4rvth2qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFEexLvRc0zMKKnzTOFl538pCa2JIw6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923277197840-hk59hj83m7v6aec4grnohvgk4rvth2qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
